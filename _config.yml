@@ -48,7 +48,7 @@ author:
 
 
 ### Posts ###
-permalink: /Science/:title
+permalink: /blog/:title
 
 
 ### Collections ###
