@@ -84,7 +84,7 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "Research"
+      type: "Science"
     values:
       layout: "page"
   - scope:
