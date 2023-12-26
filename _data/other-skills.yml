@@ -1,11 +1,15 @@
-- name: 3D printing
-  percentage: 90
+- name: Python
+  percentage: 80
+  color:
+
+- name: TESS dataset
+  percentage: 80
   color: danger
 
-- name: Adobe Photoshop
+- name: Giant Exoplanets around M-dwarf Stars (GEMS)
+  percentage: 50
+  color: success
+
+- name: Gaia dataset
   percentage: 50
   color: info
-
-- name: Blender
-  percentage: 20
-  color: success
