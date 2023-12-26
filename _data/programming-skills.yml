@@ -1,3 +1,11 @@
-- name: Python
-  percentage: 80
+- name: Ultra-Fast rotators
+  percentage: 90
+  color: 
+
+- name: Giant Exoplanets around M-dwarf Stars (GEMS)
+  percentage: 50
   color:
+
+  - name: PSF photometry
+  percentage: 50
+  color: success
