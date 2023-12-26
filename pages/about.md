@@ -7,12 +7,12 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am **{{ site.author.name }}**,<br>
+I am a physics Ph.D. student at UCI. My primary interests are understanding exoplanets and their hosts. Most of my research relies on time-series data to characterize transits and radial velocity signals. 
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Research Interests" source=site.data.programming-skills %}
+{% include about/skills.html title="Science Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
