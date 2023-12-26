@@ -1,7 +1,11 @@
+- name: 3D printing
+  percentage: 90
+  color: danger
+
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 50
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Blender
+  percentage: 20
   color: success
