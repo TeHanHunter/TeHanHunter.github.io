@@ -6,10 +6,6 @@
   percentage: 80
   color: danger
 
-- name: Giant Exoplanets around M-dwarf Stars (GEMS)
-  percentage: 50
-  color: success
-
 - name: Gaia dataset
   percentage: 50
   color: info
