@@ -1,6 +1,6 @@
 - name: Ultra-Fast rotators
   percentage: 90
-  color: 
+  color: warning
 
 - name: Giant Exoplanets around M-dwarf Stars (GEMS)
   percentage: 50
@@ -8,4 +8,4 @@
 
   - name: PSF photometry
   percentage: 50
-  color:
+  color: 
