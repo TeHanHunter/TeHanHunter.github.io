@@ -6,6 +6,6 @@
   percentage: 50
   color: success
 
-  - name: PSF photometry
+- name: PSF photometry
   percentage: 50
   color: 
