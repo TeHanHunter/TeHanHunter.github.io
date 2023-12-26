@@ -4,7 +4,7 @@
 
 - name: Giant Exoplanets around M-dwarf Stars (GEMS)
   percentage: 50
-  color:
+  color: success
 
   - name: PSF photometry
   percentage: 50
