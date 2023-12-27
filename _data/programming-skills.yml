@@ -8,4 +8,4 @@
 
 - name: PSF photometry
   percentage: 50
-  color: 
+  color: secondary
