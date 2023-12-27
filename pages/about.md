@@ -19,4 +19,3 @@ I am a physics Ph.D. student at UCI. My primary interests are understanding exop
 {% include about/timeline.html title="Experiences" source=site.data.timeline%}
 {% include about/publications.html title="Publications" source=site.data.timeline%}
 </div>
-
