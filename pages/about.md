@@ -17,5 +17,5 @@ I am a physics Ph.D. student at UCI. My primary interests are understanding exop
 
 <div class="row">
 {% include about/timeline.html source=site.data.timeline%}
-{% include about/publications.html source=site.data.timeline%}
+{% include about/publications.html source=site.data.publications%}
 </div>
